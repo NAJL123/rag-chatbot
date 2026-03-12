@@ -1,0 +1,14 @@
+Artificial Intelligence and RAG Systems
+
+Artificial Intelligence (AI) is transforming the world. One of the most powerful techniques today is RAG, which stands for Retrieval-Augmented Generation.
+
+Key Concepts:
+
+LLM: Large Language Models like GPT-4o are the brains of the system.
+
+Vector Databases: Tools like FAISS help store information as mathematical vectors.
+
+Embeddings: These are numerical representations of text that allow the computer to understand meaning.
+
+The Goal of this Project:
+This project is a chatbot created by Najlaa to demonstrate how to chat with PDF documents using LangChain and Streamlit. It allows users to ask questions and get accurate answers based on the PDF content.
